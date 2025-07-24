@@ -1,0 +1,36 @@
+git clone
+----------------------------------------
+git init
+git pull
+git add .
+git status
+git commit -m "<commit message>"
+git log
+git push
+🔧 Repository Setup
+- git init — Initialize a new Git repository
+🔄 Synchronize with Remote
+- git pull — Fetch and integrate changes from the remote repository
+- git push — Send committed changes to the remote repository
+📋 Track & Stage Changes
+- git status — Show current changes and staging status
+- git add . — Add all changes to the staging area
+🔍 Review Changes
+- git diff — View differences between commits, branches, or the working directory
+- git log — Display a history of commits
+💾 Commit & Stash
+- git stash — Temporarily save changes that aren’t ready to commit
+- git commit -m "<commit message>" — Record staged changes with a message
+🌿 Branch Management
+- git branch <branchName> — Create a new branch
+- git checkout <branchName> — Switch to another branch
+- git merge — Merge changes from one branch into another
+Let me know if you want cheat sheets, workflows, or real-world examples using these commands. We could even build a mini Git guide together. 🚀
+- git log — Display a history of commits
+💾 Commit & Stash
+- git stash — Temporarily save changes that aren’t ready to commit
+- git commit -m "<commit message>" — Record staged changes with a message
+🌿 Branch Management
+- git branch <branchName> — Create a new branch
+- git checkout <branchName> — Switch to another branch
+- git merge — Merge changes from one branch into another
