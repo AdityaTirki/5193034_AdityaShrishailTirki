@@ -34,3 +34,4 @@ Let me know if you want cheat sheets, workflows, or real-world examples using th
 - git branch <branchName> — Create a new branch
 - git checkout <branchName> — Switch to another branch
 - git merge — Merge changes from one branch into another
+this is for dev
