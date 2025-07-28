@@ -31,4 +31,8 @@ commit.
 25. git reset --hard: Resets everything to a previous commit,erasing all uncommitted changes,
 26. git add . : To stage all changes in your working directory
 27. git commit -m "Your commit message": To commit your staged changes
+
 this is for dev12
+
+this is for dev
+
