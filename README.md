@@ -6,3 +6,5 @@ GIT_CERTIFICATE
 has successfully completed the course by demonstrating theoretical and practical understanding of
 Introduction to C
 <img src="https://github.com/AdityaTirki/5193034_AdityaShrishailTirki/blob/main/C%20Programming/Certificates/5193034_Aditya%20Shrishail%20Tirki_c.png" alt="image">
+successfully completed the course by demonstrating theoretical and practical understanding of C Intermediate
+<img src="https://github.com/AdityaTirki/5193034_AdityaShrishailTirki/blob/main/C%20Programming/Certificates/5193034_Aditya%20Shrishail%20Tirkic2.jpg" alt="image">
